@@ -1,0 +1,9 @@
+autologin.username="taco_kongen"
+autologin.saved_credentials="{\"taco_kongen\":[\"taco_kongen\",\"wy0S2mRz8XbY9RJ4OH6IV20EA0z8lnemZaWAnM2fKCBbNIVWaWvBsYssRcrnl9X2JudOywAQ6GMtSzQEkkEkZDF6PBuLo8yUDS7q7d986S2EETPVg5aFgzBeIjU7b+XNzPKAlW3yO5OySykHM6XKePZ1ZdwbCqiz3QJ0tyS79DfoeXkCcDwMt5tUJJr6gDipDuq+3UNjlGLvoBiiKrfTm1tljTwJk1nDfi1bynpY9uwkngWz66zvQ3uh/hFxk9ZX\"]}"
+autologin.canonical_username="taco_kongen"
+app.rollback-to-sc=true
+autologin.blob="wy0S2mRz8XbY9RJ4OH6IV20EA0z8lnemZaWAnM2fKCBbNIVWaWvBsYssRcrnl9X2JudOywAQ6GMtSzQEkkEkZDF6PBuLo8yUDS7q7d986S2EETPVg5aFgzBeIjU7b+XNzPKAlW3yO5OySykHM6XKePZ1ZdwbCqiz3QJ0tyS79DfoeXkCcDwMt5tUJJr6gDipDuq+3UNjlGLvoBiiKrfTm1tljTwJk1nDfi1bynpY9uwkngWz66zvQ3uh/hFxk9ZX"
+es.send-on-startup=true
+core.clock_delta=0
+storage.last-location="/home/tgob/.cache/spotify/Storage"
+app.last-launched-version="1.2.63.394.g126b0d89"
