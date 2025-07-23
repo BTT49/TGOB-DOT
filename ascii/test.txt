@@ -1,0 +1,7 @@
+$1  aaaaaaaaaaaaaaaaaaaaaaaaa
+
+$2 bbbbbbbbbbbbbbbbbbbbbbbbbb
+
+$3 cccccccccccccccccccccccccc
+
+$1 aaaaaa $2 bbbbbb $3 ccccccc
